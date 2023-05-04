@@ -10,10 +10,10 @@ Figure 2: A deep DenseNet with three dense blocks.
 
 <img src="png.jpg">
 
-    pip install -r requirements.txt
-
-Run [scratch.ipynb ](https://github.com/FreckledMe/DenseNet/blob/main/scratch.ipynb)
-
 DenseNet architecture for ImageNet
 
 <img src="arch.png">
+
+    pip install -r requirements.txt
+
+Run [scratch.ipynb ](https://github.com/FreckledMe/DenseNet/blob/main/scratch.ipynb)
